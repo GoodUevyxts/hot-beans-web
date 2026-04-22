@@ -2,6 +2,8 @@
 
 A complete, professional website for a fictional web development company with automated deployment and testing.
 
+Assignment 2: Level 3 Computing - CI/CD Website Deployment -please bear in mind if using this template website you will be expected to customise it! Comments in the code will be expected as will screen shots of the code and the completed website running in 2 browsers  - this is part of testing too - you can also use a platform like Figma (industry standard tool) to develop the wireframes and more :) 
+
 ---
 
 ## Getting Started
@@ -226,11 +228,11 @@ Your live site updates automatically after each push.
 ## Credits
 
 - Template by: Willxxx7/hot-beans-web
-- Assignment: Level 3 Computing - CI/CD Website Deployment
+- Assignment: Level 3 Computing - CI/CD Website Deployment -please bear in mind if using this template website you will be expected to customise it! Comments in the code will be expected as will screen shots of the code and the completed website running in 2 browsers  - this is part of testing too - you can also use a platform like Figma (industry standard tool) to develop the wireframes and more :) 
 
 ---
 
-**Submission deadline:** [INSERT DATE]
+**Submission deadline:** 30th April 2026
 
 **Submit:** Live URL + 6 screenshots + GitHub repo link
 
