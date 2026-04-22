@@ -285,7 +285,7 @@ And some automation for the testing - do you understand it? make sure you explai
 ```bash
 1. Create new repo: hotbeans-[yourname]
 2. Upload: index.html, style.css, script.js, images/
-3. Make repo PUBLIC (Settings → Danger Zone → Change visibility)
+3. Make repo PUBLIC (Settings → Danger Zone (scroll down along way :) then → Change visibility to PUBLIC) why have you done this? 
 ```
 
 ### **Step 2: Create the Workflow File**
@@ -296,6 +296,8 @@ And some automation for the testing - do you understand it? make sure you explai
 3. **Copy-paste exactly** (watch indentation!):
 ```
 
+---
+what is this yaml file??
 ```yaml
 name: Website Tests
 on: [push, pull_request]
