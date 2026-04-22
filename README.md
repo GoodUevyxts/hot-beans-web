@@ -4,6 +4,7 @@ A complete, professional website for a fictional web development company with au
 
 Assignment 2: Level 3 Computing - CI/CD Website Deployment -please bear in mind if using this template website you will be expected to customise it! Comments in the code will be expected as will screen shots of the code and the completed website running in 2 browsers  - this is part of testing too - you can also use a platform like Figma (industry standard tool) to develop the wireframes and more :) 
 
+Remember evidence is what is needed  - if you do not evidence your work properly expect a resubmission!
 ---
 
 ## Getting Started
@@ -13,7 +14,7 @@ Assignment 2: Level 3 Computing - CI/CD Website Deployment -please bear in mind 
 1. Clone this repository
 2. Open `index.html` in your web browser
 
-No build steps or dependencies required.
+No build steps or dependencies required. you should investigate exactly what this part means  :)
 
 ### Staff Portal Demo
 
