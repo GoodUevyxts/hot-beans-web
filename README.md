@@ -269,12 +269,12 @@ And some automation for the testing - do you understand it? make sure you explai
 
 | **Problem**             | **Fix**                                                            |
 | ----------------------------- | ------------------------------------------------------------------------ |
-| **Indentation**         | YAML needs**exactly 2 spaces** per level *(no tabs!)*            |
+| **Indentation**         | YAML needs **exactly 2 spaces** per level *(no tabs!)*            |
 | **`npx` fails**       | GitHub has Node.js built-in - just use `npx` commands                  |
-| **Private repo**        | Make repo**public** for free GitHub Actions minutes                |
-| **No workflow runs**    | Must**commit + push** after adding `.github/workflows/tests.yml` |
+| **Private repo**        | Make repo **public** for free GitHub Actions minutes                |
+| **No workflow runs**    | Must **commit + push** after adding `.github/workflows/tests.yml` |
 | **`grep` scary**      | It just finds images - won't break anything                              |
-| **Missing screenshots** | Take**3 screenshots**: Workflow + HTML output + table              |
+| **Missing screenshots** | Take  **3 screenshots**: Workflow + HTML output + table              |
 
 ---
 
