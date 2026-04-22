@@ -397,6 +397,6 @@ jobs:
 
 ---
 
-**Total time: 20 minutes setup → Distinction evidence forever!** 🚀
+**Total time: 20 minutes setup → Distinction evidence forever!**    except yours will need to be more tests for the distinction and properly explained!🚀
 
 **Submit:** Screenshots + write-up + GitHub link = **PMD guaranteed**.
