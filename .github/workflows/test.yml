@@ -1,0 +1,19 @@
+name: CI/CD Website Tests
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Test HTML Valid
+      run: npx @html-validate/cli@latest .
+    - name: Check Image Paths
+      run: grep -r 'src=' *.html | grep -v 'data:' || true
+    - name: Verify Pages Build
+      run: |
+        if [ -f "index.html" ]; then
+          echo "✅ index.html exists in root"
+        else
+          echo "❌ No index.html - Pages will 404"
+          exit 1
+        fi
